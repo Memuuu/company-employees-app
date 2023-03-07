@@ -1,0 +1,22 @@
+{
+    "users":[
+        {
+            "id": "unique-1",
+            "name": "Mehmet dertli",
+            "salary": "5000",
+            "department": "Yazılım"
+          },
+          {
+            "id": "unique-2",
+            "name": "Alo deneme",
+            "salary": "55000",
+            "department": "Front"
+          },
+          {
+            "id": "unique-3",
+            "name": "deneme 3",
+            "salary": "125000",
+            "department": "Back"
+          }
+    ]
+}
